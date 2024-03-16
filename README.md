@@ -101,16 +101,13 @@ The project provides a side-by-side evaluation of classical and deep learning ap
 - The comparison shows that face embeddings combined with a LinearSVC result in significantly higher accuracy than using PCA with a LinearSVC for the face recognition task.
 - The advanced feature extraction capability of deep learning models that produce face embeddings is the key contributor to this performance improvement.
 
-## Support
+# Stay Updated
 
-If you like this project, please consider giving it a star ⭐ and following me on GitHub.
+If you like this project and If you're interested in more "WhiteBox" understanding projects, be sure to let me know by giving it a star ⭐ and following me on GitHub. 
+
+**More exciting projects are on the way!**
 
 [![GitHub stars](https://img.shields.io/github/stars/MayurHulke/face-recognition-eigenfaces-vs-cnn?style=social)](https://github.com/MayurHulke/face-recognition-eigenfaces-vs-cnn)
 [![GitHub followers](https://img.shields.io/github/followers/MayurHulke?style=social)](https://github.com/MayurHulke)
-
-
-# Stay Updated
-
-If you're interested in more "WhiteBox" understanding projects, be sure to follow me for updates. More exciting projects are on the way!
 
 Click [here](https://github.com/MayurHulke) to visit my profile.
