@@ -105,13 +105,12 @@ The project provides a side-by-side evaluation of classical and deep learning ap
 
 If you like this project, please consider giving it a star ⭐ and following me on GitHub.
 
-[![GitHub stars](https://img.shields.io/github/stars/MayurHulke/face-recognition-eigenfaces-vs-cnn.svg?style=social&label=Star)](https://github.com/MayurHulke/face-recognition-eigenfaces-vs-cnn/stargazers)
-[![GitHub followers](https://img.shields.io/github/followers/MayurHulke.svg?style=social&label=Follow)](https://github.com/MayurHulke?tab=followers)
-
+[![GitHub stars](https://img.shields.io/github/stars/MayurHulke/face-recognition-eigenfaces-vs-cnn?style=social)](https://github.com/MayurHulke/face-recognition-eigenfaces-vs-cnn)
+[![GitHub followers](https://img.shields.io/github/followers/MayurHulke?style=social)](https://github.com/MayurHulke)
 
 
 # Stay Updated
 
 If you're interested in more "WhiteBox" understanding projects, be sure to follow me for updates. More exciting projects are on the way!
 
-Click [here](https://github.com/MayurHulke) to visit my profile and follow me.
+Click [here](https://github.com/MayurHulke) to visit my profile.
